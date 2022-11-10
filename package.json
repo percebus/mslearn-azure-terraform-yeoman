@@ -1,0 +1,27 @@
+{
+  "name": "mslearn-azure-terraform-yeoman",
+  "version": "0.1.0",
+  "description": "MSLearn Azure Terraform Yeoman example",
+  "main": "index.js",
+  "scripts": {
+    "npm:install:global": "npm install --location=global yo",
+    "setup": "npm run npm:install:global",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:percebus/mslearn-azure-terraform-yeoman.git"
+  },
+  "keywords": [
+    "azure",
+    "terraform",
+    "npm",
+    "yeoman"
+  ],
+  "author": "Microsoft",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/percebus/mslearn-azure-terraform-yeoman/issues"
+  },
+  "homepage": "https://github.com/percebus/mslearn-azure-terraform-yeoman#readme"
+}
