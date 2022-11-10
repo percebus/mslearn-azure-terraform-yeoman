@@ -1,5 +1,5 @@
 {
   "generator-az-terra-module": {
-    "templateContext": "false"
+    "templateContext": true
   }
 }
