@@ -4,7 +4,7 @@
   "description": "MSLearn Azure Terraform Yeoman example",
   "main": "index.js",
   "scripts": {
-    "npm:install:global": "npm install --location=global yo",
+    "npm:install:global": "npm install --location=global yo generator-az-terra-module",
     "setup": "npm run npm:install:global",
     "test": "exit 0"
   },
