@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "npm:install:global": "npm install --location=global yo generator-az-terra-module",
-    "setup": "npm run npm:install:global",
+    "gem:install": "gem install bundler",
+    "setup": "npm run npm:install:global && npm run gem:install",
+    "docker:compose:build": "docker compose build",
+    "docker:compose:up": "docker compose up",
+    "bundle:install": "bundle install",
+    "rake:build": "rake build",
     "test": "exit 0"
   },
   "repository": {
