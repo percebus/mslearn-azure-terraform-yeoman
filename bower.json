@@ -1,0 +1,13 @@
+{
+  "name": "mslearn-azure-terraform-yeoman",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "rubygems": "git@github.com:rubygems/rubygems.git#master"
+  }
+}
