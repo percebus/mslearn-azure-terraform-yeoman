@@ -1,5 +1,7 @@
 # mslearn-azure-terraform-yeoman
 
+[`LICENSE`](./LICENSE) | [`HISTORY`](./HISTORY.md)
+
 Introduce your module briefly.
 
 ## Usage
